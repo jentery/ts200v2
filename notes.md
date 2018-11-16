@@ -1,6 +1,6 @@
 # Before You Make a Thing 
 
-*some tips for approaching technology and society* (by Jentery Sayers | English | UVic) 
+*some tips for approaching technology and society* | Jentery Sayers | English | UVic 
 
 This is a guide for Technology and Society 200 (Fall 2018; 60 undergraduate students) at the University of Victoria. It consists of three point-form lists. The first is a series of theories and concepts drawn from assigned readings, the second is a rundown of practices corresponding with projects we studied, and the third itemizes prototyping techniques conducted in the course. All are intended to distill material from the term and communicate its relevance to project design and development. Some contradiction is inevitable. Thank you for your patience.  
 
